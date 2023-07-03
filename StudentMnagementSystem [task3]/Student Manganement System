@@ -1,0 +1,18 @@
+######################~~~~~~~~~~ Student Management System ~~~~~~~~~~######################
+Student Management System
+
+The Student Management System is a Java program that allows users to manage student information.
+It provides features such as adding a student, removing a student, searching for a student by roll number, and displaying all students.
+
+The program consists of two classes: "Student" and "StudentManagementSystem". 
+The "Student" class represents a student and stores their name, roll number, and grade. 
+The "StudentManagementSystem" class manages the collection of students using a list.
+
+Users can interact with the program through a simple command-line interface. 
+They can choose various options, such as adding a student by providing the name, roll number, and grade.
+Students can be removed based on their roll number, and searching for a student displays their details if found. 
+The program also allows displaying all the students stored in the system.
+
+The Student Management System provides a convenient way to manage student information, 
+making it suitable for educational institutions or any scenario requiring student data management.
+
