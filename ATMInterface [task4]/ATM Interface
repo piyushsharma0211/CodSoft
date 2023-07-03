@@ -1,0 +1,9 @@
+######################~~~~~~~~~~ ATM Interface ~~~~~~~~~~######################
+
+This program implements a basic ATM interface in Java, allowing users to check their account balance, 
+withdraw money, and deposit funds. 
+It provides a simple command-line user interface with a menu-driven system. 
+
+The program validates user input and displays appropriate messages based on the success or failure of transactions. 
+The account balance is stored in the ATM object, and withdrawals are only permitted if the account has sufficient funds. 
+The program is designed to provide a starting point for building more advanced ATM systems.
